@@ -1,0 +1,8 @@
+{
+    "id": "dates-picker",
+    "name": "Select Dates in the week",
+    "srcdoc": "index.html",
+    "fieldTypes": [
+        "Object"
+    ]
+}
